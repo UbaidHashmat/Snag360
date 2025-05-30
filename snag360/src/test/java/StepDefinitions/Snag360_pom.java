@@ -98,7 +98,7 @@ public void user_is_on_home_page() {
     public void user_enter_project_name() {
       System.out.println("User enters project name");
       homepage hp= new homepage(driver);
-      hp.enter_project_name("Snag automation 58");
+      hp.enter_project_name("Snag automation 61");
       
     }
     

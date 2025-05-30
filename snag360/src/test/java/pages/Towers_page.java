@@ -20,6 +20,9 @@ public class Towers_page extends Base_page {
 	@FindBy(xpath="//a[normalize-space()='Save & Proceed']")
 	WebElement Click_on_Towers_proceed_button;
 	
+	@FindBy(xpath="//h5[text()='ADD FLOOR']")
+	WebElement click_on_add_floor;
+	
 	
 	
 	

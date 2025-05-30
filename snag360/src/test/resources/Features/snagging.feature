@@ -26,6 +26,7 @@ Feature: feature to test login page functionality
     Then Clicks add button
     When scroll down
     And Click on Towers proceed button
+    When click on add floor
 
     #Examples: 
       #| id                | password   |
